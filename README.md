@@ -18,19 +18,18 @@
 
 ```
 # initialize
-npm i -g typescript typings
+yarn global add -u typescript typings apidoc
 
 # install
-npm i & typings i
+yarn install & typings i
 
 # watch&build typescript
 tsc
 
-# server
+# server 另外终端启动，默认端口8085
 npm run dev
 
 # doc
-npm i apidoc -g
 npm run doc
 ```
 
