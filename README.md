@@ -29,6 +29,9 @@ tsc
 # server 另外终端启动，默认端口8085
 npm run dev
 
+# 或者直接使用 VSCode F5 一键调试
+# 编辑 .vscode/launch.json 不同操作系统请自行修改路径分隔符号
+
 # doc
 npm run doc
 ```
