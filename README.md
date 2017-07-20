@@ -13,6 +13,7 @@
 - [x] 统一数据返回格式
 - [x] 集成[restc](https://github.com/ElemeFE/restc)
 - [x] 自动完成api文档[apidoc](https://github.com/apidoc/apidoc)
+- [ ] 使用ORM连接MySQL数据库 [sequelize](http://docs.sequelizejs.com/)
 
 ### dev
 
